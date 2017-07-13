@@ -3,3 +3,13 @@ C:\Users\Akvelon0585\Documents\RSProject\EyesOfTheDragon\RPGLibrary\bin\Debug\RP
 C:\Users\Akvelon0585\Documents\RSProject\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.dll
 C:\Users\Akvelon0585\Documents\RSProject\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.pdb
 C:\Users\Akvelon0585\Documents\RSProject\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.csprojResolveAssemblyReference.cache
+C:\Development\Monogame\EyesOfTheDragon\RPGLibrary\bin\Debug\RPGLibrary.dll
+C:\Development\Monogame\EyesOfTheDragon\RPGLibrary\bin\Debug\RPGLibrary.pdb
+C:\Development\Monogame\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.csprojResolveAssemblyReference.cache
+C:\Development\Monogame\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.dll
+C:\Development\Monogame\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.pdb
+C:\Users\Akvelon0585\Documents\Repositories\Tutorial\EyesOfTheDragon\RPGLibrary\bin\Debug\RPGLibrary.dll
+C:\Users\Akvelon0585\Documents\Repositories\Tutorial\EyesOfTheDragon\RPGLibrary\bin\Debug\RPGLibrary.pdb
+C:\Users\Akvelon0585\Documents\Repositories\Tutorial\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.dll
+C:\Users\Akvelon0585\Documents\Repositories\Tutorial\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.pdb
+C:\Users\Akvelon0585\Documents\Repositories\Tutorial\EyesOfTheDragon\RPGLibrary\obj\Debug\RPGLibrary.csprojResolveAssemblyReference.cache

@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//This class stores the tile width and height. We also have a helper function to convert an x,y position into a tile point on the map. 
+
 namespace XRPGLibrary.TileEngine
 {
     public class Engine
